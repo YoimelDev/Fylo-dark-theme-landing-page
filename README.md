@@ -11,14 +11,14 @@ You can see the result here → [Fylo dark theme landing page](https://fylo-dark
 <details>
     <summary>🖥️ Desktop version</summary>
 
-![](./images/Desktop.PNG)
+![](images\Desktop.png)
 
 </details>
 
 <details>
     <summary>📱 Mobile version</summary>
 
-![](./images/Mobile.PNG)
+![](images\Mobile.png)
 
 </details>
 

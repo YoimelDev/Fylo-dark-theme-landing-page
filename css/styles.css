@@ -29,6 +29,7 @@ body {
   width: 90%;
   margin: 0 auto;
   padding: 0;
+  height: 100vh;
   font-size: 1.4rem;
   font-family: var(--fontOpenSans);
   background: url(../images/bg-curvy-mobile.svg);
@@ -41,9 +42,6 @@ a {
   text-decoration: none;
   color: var(--white);
 }
-/* main {
-
-} */
 .header {
   display: flex;
   justify-content: space-between;

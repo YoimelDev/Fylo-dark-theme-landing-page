@@ -94,3 +94,58 @@ a {
 .content__img {
   margin-bottom: 3rem;
 }
+.productivity {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15rem;
+  padding-bottom: 10rem;
+}
+.productivity__img img {
+  display: block;
+  margin: 0 auto;
+  width: 90%;
+  margin-bottom: 2rem;
+}
+.productivity a {
+  display: flex;
+  gap: 0.5rem;
+  color: var(--cyan);
+}
+.testimonials {
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+  margin: 10rem 1rem;
+}
+.testimonials p {
+  margin: 0;
+  line-height: 2;
+}
+.testimonials__card {
+  background-color: var(--darkblueTestimonials);
+  border-radius: 1rem;
+  padding: 3rem 3rem;
+}
+.testimonials__img img {
+  height: 3rem;
+  position: absolute;
+  margin: -6rem -2rem;
+}
+.profile {
+  display: flex;
+  margin-top: 2.5rem;
+  gap: 2rem;
+}
+.profile--img img {
+  height: 5rem;
+  border-radius: 50%;
+}
+.profile--info p {
+  margin: 0;
+}
+.profile--name {
+  font-weight: 700;
+}
+.profile--job {
+  font-size: 1.2rem;
+}

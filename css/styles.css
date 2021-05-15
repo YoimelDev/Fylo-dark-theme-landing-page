@@ -33,11 +33,7 @@ body {
   font-size: 1.4rem;
   color: var(--white);
   font-family: var(--fontOpenSans);
-  background: url(../images/bg-curvy-mobile.svg);
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: 0% 63%;
-  background-color: var(--darkblueIntro);
+  background-color: var(--darkblueMain);
 }
 a {
   text-decoration: none;
@@ -150,7 +146,7 @@ a {
   font-size: 1.2rem;
 }
 .form {
-  background-color: var(--darkblueFooter);
+  background-color: var(--darkblueIntro);
   border-radius: 1rem;
   padding: 3rem 2rem;
   text-align: center;

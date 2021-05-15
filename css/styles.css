@@ -149,3 +149,23 @@ a {
 .profile--job {
   font-size: 1.2rem;
 }
+.form {
+  background-color: var(--darkblueFooter);
+  border-radius: 1rem;
+  padding: 3rem 2rem;
+  text-align: center;
+}
+.form--btn {
+  background: var(--white);
+  border: none;
+  color: #000;
+  border-radius: 3rem;
+  margin-top: 2rem;
+  padding: 2rem;
+  width: 95%;
+  font-weight: 700;
+}
+.btn {
+  background: var(--blueGradient);
+  color: var(--white);
+}

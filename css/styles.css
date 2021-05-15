@@ -170,6 +170,10 @@ a {
   background: var(--blueGradient);
   color: var(--white);
 }
+.btn:hover {
+  cursor: pointer;
+  background: var(--cyan);
+}
 .footer {
   background-color: var(--darkblueFooter);
   padding: 25rem 3rem 1rem 3rem;
@@ -189,12 +193,19 @@ a {
   gap: 1rem;
   margin-top: 5rem;
 }
+.footer__nav a:hover {
+  font-weight: 700;
+}
 .footer__icons {
   display: flex;
   gap: 2rem;
   font-size: 3rem;
   justify-content: center;
   margin-top: 5rem;
+}
+.footer__icons i:hover {
+  cursor: pointer;
+  color: var(--cyan);
 }
 .attribution {
   margin-top: 4rem;
